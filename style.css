@@ -1,0 +1,60 @@
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* nav */
+.listaRight {
+    margin-right: 0 !important;
+}
+
+.iconNav {
+    background-image: url('./img/menu.png');
+}
+
+.nav-item2 {
+    border-radius: 16px;
+    transition: 0.7s all;
+    padding: 0 5px;
+}
+
+.nav-item2:hover {
+    background-color: #8b8b8b;
+}
+/* primera seccion */
+.first-seccion {
+    background-image: url('./img/background.webp');
+    background-size: cover;
+    padding-left: 5%;
+    padding-bottom: 5% !important;
+}
+
+.first-seccion nav{
+    background-color: white;
+    margin-right: 50%;
+}
+
+.divSeccion1 {
+    margin-right: 50%;
+    background-color: white;
+    padding: 5% !important;
+    max-height: 400px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.tituloh4 {
+    font-size: 44px;
+}
+
+.enlaceScrollspyHeading1 {
+    color: #8b8b8b;
+}
+/* seccion 2 */
+.second-seccion {
+    background-image: url('./img/seccion2.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 5%;
+    padding-bottom: 5% !important;
+}
