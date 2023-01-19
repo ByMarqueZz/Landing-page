@@ -58,3 +58,13 @@
     padding-left: 5%;
     padding-bottom: 5% !important;
 }
+
+/* seccion 3 */
+.tituloh5 {
+    font-size: 34px;
+    margin-left: 5%;
+}
+
+.columnas {
+    text-align: -webkit-center;
+}
