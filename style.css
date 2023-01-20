@@ -68,3 +68,22 @@
 .columnas {
     text-align: -webkit-center;
 }
+
+/* seccion 4 */
+.four-seccion div{
+    margin: 0 auto;
+}
+
+/* media query 800px */
+@media screen and (max-width: 800px) {
+    .first-seccion{
+        margin-right: 0;
+        padding-right: 5% !important;
+    }
+    .first-seccion nav {
+        margin-right: 0;
+    }
+    .divSeccion1 {
+        margin-right: 0;
+    }
+}
